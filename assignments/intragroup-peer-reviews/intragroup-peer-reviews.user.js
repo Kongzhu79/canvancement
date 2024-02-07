@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name        IntraGroup Peer Reviews
 // @description Assign intra-group peer reviews
-// @namespace   https://github.com/jamesjonesmath/canvancement
-// @match       https://*.instructure.com/courses/*/assignments/*/peer_reviews
+// @namespace   https://github.com/Kongzhu79/canvancement
+// @match       https://canvas.*.com/courses/*/assignments/*/peer_reviews
 // @require     https://cdn.jsdelivr.net/npm/bottleneck@2/light.min.js
 // @version     3
 // @grant       none
